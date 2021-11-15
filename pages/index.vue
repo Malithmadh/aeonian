@@ -51,10 +51,8 @@
                         <div class="col-lg-6 col-md-12">
                             <div class="banner-content">
                                 <span class="sub-title">Growth Your Business</span>
-                                <h1>We Provide Best Digital Marketing Solutions</h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                <h1>We Provide Best IT Solutions</h1>
+                                <p>Creating nice digital products engineered to drive growth for the world's leading brands.</p>
                                 <div class="btn-box">
                                     <div class="d-flex align-items-center">
                                         <a href="contact.html" class="default-btn">Get Started</a>
@@ -92,12 +90,12 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-boxes-box">
                         <div class="icon">
-                            <i class="flaticon-research"></i>
+                            <i class="flaticon-web-settings"></i>
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                             </div>
                         </div>
-                        <h3><a href="single-services.html">Marketing Analysis</a></h3>
+                        <h3><a href="single-services.html">Web Applications</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna.</p>
                         <a href="single-services.html" class="learn-more-btn"><i
@@ -108,12 +106,12 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-boxes-box">
                         <div class="icon">
-                            <i class="flaticon-speed"></i>
+                            <i class="flaticon-startup"></i>
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                             </div>
                         </div>
-                        <h3><a href="single-services.html">Website Optimization</a></h3>
+                        <h3><a href="single-services.html">Mobile Applications</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna.</p>
                         <a href="single-services.html" class="learn-more-btn"><i
@@ -129,7 +127,7 @@
                                 <div class="circle-one"></div>
                             </div>
                         </div>
-                        <h3><a href="single-services.html">Email Marketing</a></h3>
+                        <h3><a href="single-services.html">Desktop Applications</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna.</p>
                         <a href="single-services.html" class="learn-more-btn"><i
@@ -153,7 +151,7 @@
                     <div class="about-content">
                         <div class="text">
                             <span class="sub-title">About Us</span>
-                            <h2>Enjoy Full-Service Digital Marketing Expertise</h2>
+                            <h2>Enjoy Full-Service Software development Expertise</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
                                 viverra maecenas accumsan lacus vel facilisis.</p>
@@ -208,7 +206,7 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><a href="single-services.html">Social Media Marketing</a></h3>
+                        <h3><a href="single-services.html">Web Applications</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna.</p>
                         <a href="single-services.html" class="learn-more-btn"><i
@@ -225,7 +223,7 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><a href="single-services.html">Keyward Research</a></h3>
+                        <h3><a href="single-services.html">Mobile Applications</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna.</p>
                         <a href="single-services.html" class="learn-more-btn"><i
@@ -242,7 +240,7 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><a href="single-services.html">Content Marketing</a></h3>
+                        <h3><a href="single-services.html">Desktop Applications</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna.</p>
                         <a href="single-services.html" class="learn-more-btn"><i
@@ -259,7 +257,7 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><a href="single-services.html">PPC Advertising</a></h3>
+                        <h3><a href="single-services.html">Social Media Matketing</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna.</p>
                         <a href="single-services.html" class="learn-more-btn"><i
@@ -276,7 +274,7 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><a href="single-services.html">Competitor Research</a></h3>
+                        <h3><a href="single-services.html">Web Hosting</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna.</p>
                         <a href="single-services.html" class="learn-more-btn"><i
@@ -293,7 +291,7 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><a href="single-services.html">Skyrocketing Growth</a></h3>
+                        <h3><a href="single-services.html">Digital Media Marketing</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna.</p>
                         <a href="single-services.html" class="learn-more-btn"><i
