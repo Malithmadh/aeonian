@@ -7,10 +7,9 @@
             <a href="index-2.html" class="logo">
               <img src="img/white-logo.png" alt="logo">
             </a>
-            <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et
-              dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+            <p>Aeonian is a Software Development Company based in Sri Lanka that delivers the best and robust solution to their customers according to their requirements.</p>
             <ul class="social-link">
-              <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-facebook'></i></a></li>
+              <li><a href="https://www.facebook.com/aeoniandev" class="d-block" target="_blank"><i class='bx bxl-facebook'></i></a></li>
               <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-twitter'></i></a></li>
               <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
               <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
@@ -45,15 +44,15 @@
           <div class="single-footer-widget">
             <h3>Address</h3>
             <ul class="footer-contact-info">
-              <li><i class='bx bx-map'></i>175 5th Ave Premium Area, New York, NY 10010, United States
+              <li><i class='bx bx-map'></i>Colombo, Sri Lanka
               </li>
-              <li><i class='bx bx-phone-call'></i><a href="tel:+11234567890">+1 (123) 456 7890</a></li>
+              <li><i class='bx bx-phone-call'></i><a href="tel:+11234567890">+94 (77) 727 4700</a></li>
               <li><i class='bx bx-envelope'></i><a
-                  href="https://templates.envytheme.com/cdn-cgi/l/email-protection#97fff2fbfbf8d7f3fef5feedb9f4f8fa"><span
+                  href="#"><span
                     class="__cf_email__"
-                    data-cfemail="b2dad7dededdf2d6dbd0dbc89cd1dddf">[email&#160;protected]</span></a>
+                    data-cfemail="b2dad7dededdf2d6dbd0dbc89cd1dddf">info.aeonianits@gmail.com</span></a>
               </li>
-              <li><i class='bx bxs-inbox'></i><a href="tel:+557854578964">+55 785 4578964</a></li>
+              <!-- <li><i class='bx bxs-inbox'></i><a href="tel:+557854578964">+55 785 4578964</a></li> -->
             </ul>
           </div>
         </div>

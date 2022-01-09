@@ -90,7 +90,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-boxes-box">
                         <div class="icon">
-                            <i class="flaticon-web-settings"></i>
+                            <span class="flaticon-startup"></span>
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                             </div>
@@ -106,7 +106,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-boxes-box">
                         <div class="icon">
-                            <i class="flaticon-startup"></i>
+                            <i class="flaticon-web-settings"></i>
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                             </div>
