@@ -90,7 +90,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-boxes-box">
                         <div class="icon">
-                            <i class="flaticon-web-settings"></i>
+                            <span class="flaticon-startup"></span>
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                             </div>
@@ -106,7 +106,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-boxes-box">
                         <div class="icon">
-                            <i class="flaticon-startup"></i>
+                            <i class="flaticon-web-settings"></i>
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                             </div>
@@ -200,7 +200,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <i class="flaticon-startup"></i>
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -217,7 +217,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-keywords"></i>
+                            <i class="flaticon-web-settings"></i>
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -248,10 +248,27 @@
                                 class="right-icon flaticon-next-button"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-ppc"></i>
+                            <i class="flaticon-keywords"></i>
+                            <div class="circles-box">
+                                <div class="circle-one"></div>
+                                <div class="circle-two"></div>
+                            </div>
+                        </div>
+                        <h3><a href="single-services.html">Logo Design</a></h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore et dolore magna.</p>
+                        <a href="single-services.html" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="single-services-box">
+                        <div class="icon">
+                            <i class="flaticon-megaphone"></i>
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -265,24 +282,7 @@
                                 class="right-icon flaticon-next-button"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-services-box">
-                        <div class="icon">
-                            <i class="flaticon-competitor"></i>
-                            <div class="circles-box">
-                                <div class="circle-one"></div>
-                                <div class="circle-two"></div>
-                            </div>
-                        </div>
-                        <h3><a href="single-services.html">Web Hosting</a></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna.</p>
-                        <a href="single-services.html" class="learn-more-btn"><i
-                                class="left-icon flaticon-next-button"></i> Learn More <i
-                                class="right-icon flaticon-next-button"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
+                <!-- <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
                             <i class="flaticon-startup"></i>
@@ -298,15 +298,15 @@
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
 
 
-    <section class="pricing-area bg-f9f9f9 pt-100 pb-70">
+    <!-- <section class="pricing-area bg-f9f9f9 pt-100 pb-70">
         <Price/>
-    </section>
+    </section> -->
 
     <section class="project-start-area ptb-100">
         <div class="container">
